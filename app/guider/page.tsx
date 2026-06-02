@@ -58,6 +58,42 @@ export default function GuiderPage() {
             Vanliga orsaker till utebliven cashback och hur du minskar risken för problem.
           </p>
         </li>
+
+        <li>
+          <a href="/guider/vad-ar-affiliate-marknadsforing" className="underline font-medium">
+            Vad är affiliate-marknadsföring?
+          </a>
+          <p>
+            En grundläggande förklaring av affiliate-marknadsföring och hur modellen fungerar.
+          </p>
+        </li>
+
+        <li>
+          <a href="/guider/hur-fungerar-affiliate-lankar" className="underline font-medium">
+            Hur fungerar affiliate-länkar?
+          </a>
+          <p>
+            Lär dig hur klick, spårning och provisioner registreras.
+          </p>
+        </li>
+
+        <li>
+          <a href="/guider/vad-ar-ett-affiliate-natverk" className="underline font-medium">
+            Vad är ett affiliate-nätverk?
+          </a>
+          <p>
+            Förstå hur affiliate-nätverk kopplar samman företag och partners.
+          </p>
+        </li>
+
+        <li>
+          <a href="/guider/affiliate-marknadsforing-vs-cashback" className="underline font-medium">
+            Affiliate-marknadsföring vs cashback
+          </a>
+          <p>
+            De viktigaste skillnaderna mellan affiliate-marknadsföring och cashback.
+          </p>
+        </li>
       </ul>
     </main>
   );
