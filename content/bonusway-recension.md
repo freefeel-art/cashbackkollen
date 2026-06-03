@@ -147,3 +147,13 @@ Det beror på vilka butiker du använder och vilka cashbacknivåer som erbjuds v
 Bonusway är en etablerad cashback-tjänst som fungerar på samma grundprincip som andra cashback-sidor. Tjänsten erbjuder cashback hos många nätbutiker och kan vara ett intressant alternativ för användare som vill jämföra olika cashback-plattformar.
 
 För den som vill maximera återbäringen kan det vara värt att jämföra Bonusway med andra cashback-tjänster innan större köp genomförs.
+
+## Läs mer om Bonusway och cashback
+
+Vill du jämföra Bonusway med andra cashback-tjänster? Se även våra guider:
+
+- [Refunder vs Bonusway](/guider/refunder-vs-bonusway)
+- [Bästa cashback-sidor i Sverige](/guider/basta-cashback-sidor-i-sverige)
+- [Hur fungerar cashback?](/guider/hur-fungerar-cashback)
+- [Är cashback säkert?](/guider/ar-cashback-sakert)
+- [Affiliate-marknadsföring vs cashback](/guider/affiliate-marknadsforing-vs-cashback)
