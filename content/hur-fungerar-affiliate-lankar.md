@@ -8,6 +8,8 @@ En affiliate-länk innehåller information som identifierar vilken webbplats ell
 
 När användaren klickar på länken registreras besöket. Om användaren senare genomför ett köp kan företaget se vilken partner som bidrog till försäljningen och betala provision därefter.
 
+För att förstå grunderna rekommenderar vi att du först läser vår guide om [vad affiliate-marknadsföring är](/vad-ar-affiliate-marknadsforing/).
+
 ## Så fungerar processen steg för steg
 
 ### 1. Besökaren klickar på länken
@@ -74,6 +76,8 @@ När en medlem klickar vidare till en butik via cashback-sidan:
 
 Det är därför korrekt spårning är avgörande för att cashback ska fungera.
 
+Du kan läsa mer om detta i vår artikel om [hur cashback fungerar](/hur-fungerar-cashback/).
+
 ## Varför registreras inte alltid ett köp?
 
 I vissa fall fungerar inte spårningen som planerat.
@@ -99,6 +103,8 @@ Vissa butiker godkänner endast specifika kampanjkoder. Externa rabattkoder kan 
 ### Byte av enhet
 
 Om användaren klickar på länken på en enhet men slutför köpet på en annan kan spårningen brytas.
+
+Om du använder cashback-tjänster kan du även läsa vår guide om [hur cashback-sidor tjänar pengar](/hur-tjanar-cashback-sidor-pengar/).
 
 ## Hur länge gäller en affiliate-länk?
 

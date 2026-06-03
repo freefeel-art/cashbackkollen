@@ -31,7 +31,7 @@ Processen ser normalt ut så här:
 5. Cashback godkänns efter returperioden.
 6. Pengarna betalas ut.
 
-Läs även vår guide om hur cashback fungerar.
+Läs även vår guide om [hur cashback fungerar](/hur-fungerar-cashback/).
 
 ## Vad är Refunder?
 
@@ -40,6 +40,8 @@ Refunder är Sveriges största cashback-sida med över 900 000 medlemmar och omk
 Tjänsten fokuserar främst på den svenska marknaden och erbjuder cashback inom kategorier som mode, elektronik, resor, skönhet, hem och mycket annat.
 
 Refunder erbjuder även app och webbläsartillägg som hjälper användaren att aktivera cashback när det finns tillgängligt.
+
+Du kan läsa mer i vår [Refunder-recension](/refunder-recension/).
 
 ## Vad är Bonusway?
 

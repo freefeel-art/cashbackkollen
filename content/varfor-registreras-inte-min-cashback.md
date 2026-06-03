@@ -26,6 +26,8 @@ Processen ser vanligtvis ut så här:
 
 Om något av dessa steg störs kan cashback utebli.
 
+För att förstå processen bättre kan du läsa vår guide om [hur cashback fungerar](/hur-fungerar-cashback/).
+
 ## Adblockers och spårningsskydd
 
 En vanlig orsak är att webbläsaren blockerar spårningen.
@@ -49,6 +51,8 @@ Om du använder:
 - Influencerkoder
 
 kan cashbacken ibland bli ogiltig.
+
+Läs även vår guide om [rabattkod och cashback samtidigt](/kan-man-anvanda-rabattkod-och-cashback/).
 
 ## Byte av enhet eller webbläsare
 
@@ -79,6 +83,8 @@ I vissa fall kan det ta några dagar innan ett köp syns på ditt konto.
 
 Olika butiker har olika rapporteringstider.
 
+Du kan läsa mer om [hur lång tid cashback tar](/hur-lang-tid-tar-cashback/).
+
 ## Vad kan du göra?
 
 Om cashback saknas kan du:
@@ -105,5 +111,3 @@ Några enkla tips:
 Att cashback inte registreras beror oftast på tekniska orsaker eller villkor som påverkar spårningen.
 
 Genom att förstå hur cashback fungerar och följa butikens regler kan du minska risken för att gå miste om återbäring på framtida köp.
-
-Läs även vår guide om [hur cashback fungerar](/hur-fungerar-cashback/) för att förstå processen bakom cashback-system.

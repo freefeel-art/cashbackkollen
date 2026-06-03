@@ -38,8 +38,12 @@ De vanligaste riskerna handlar inte om säkerhet utan om:
 - Felaktig spårning
 - Långa väntetider
 
+Om cashback inte registreras kan du läsa vår guide om [varför cashback inte registreras](/varfor-registreras-inte-min-cashback/).
+
 Därför är det viktigt att använda etablerade cashback-tjänster.
 
 ## Sammanfattning
 
 För de flesta användare är cashback säkert så länge man använder seriösa cashback-sidor och följer deras villkor.
+
+Om du vill förstå grunderna rekommenderar vi även artikeln om [vad cashback är](/vad-ar-cashback/).

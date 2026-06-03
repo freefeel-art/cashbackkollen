@@ -28,6 +28,8 @@ Istället för att behålla hela provisionen delar cashback-sidan en del av int�
 
 Resultatet blir att du får tillbaka pengar på köp som du ändå planerade att genomföra.
 
+Läs även vår guide om [hur cashback fungerar](/hur-fungerar-cashback/).
+
 ## Vad är Refunder?
 
 Refunder är Sveriges största cashback-sida och har byggt upp ett omfattande nätverk av samarbetande nätbutiker.
@@ -35,6 +37,8 @@ Refunder är Sveriges största cashback-sida och har byggt upp ett omfattande n�
 Tjänsten fokuserar på svenska konsumenter och erbjuder cashback inom bland annat mode, resor, elektronik, skönhet och hem.
 
 Refunder har under många år etablerat sig som ett av de mest kända varumärkena inom cashback i Sverige.
+
+Du kan läsa mer i vår [Refunder-recension](/refunder-recension/).
 
 ## Vad är Cashbacker?
 

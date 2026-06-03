@@ -6,6 +6,8 @@ Storleken på cashback varierar mellan olika butiker och erbjudanden. I vissa fa
 
 För konsumenten fungerar cashback som en form av återbäring på köp som redan planerades att genomföras.
 
+Om du vill förstå processen mer i detalj kan du läsa vår guide om [hur cashback fungerar](/hur-fungerar-cashback/).
+
 ## Hur fungerar cashback?
 
 Cashback bygger vanligtvis på affiliate-marknadsföring.
@@ -42,3 +44,7 @@ En vanlig missuppfattning är att cashback-tjänsten själv betalar ut pengarna.
 I de flesta fall finansieras cashback genom butikens marknadsföringsbudget. Butiken betalar för att få nya kunder eller fler försäljningar och en del av den kostnaden används för cashback.
 
 Det innebär att cashback inte är en gåva eller ett bonusprogram finansierat av användarna själva. Modellen bygger på att butiken är villig att betala för förmedlad försäljning.
+
+För den som vill jämföra olika alternativ finns vår översikt över [bästa cashback-sidor i Sverige](/basta-cashback-sidor-i-sverige/).
+
+Du kan även läsa om skillnaderna mellan [cashbackkort och cashback-sidor](/cashbackkort-vs-cashback-sidor/).

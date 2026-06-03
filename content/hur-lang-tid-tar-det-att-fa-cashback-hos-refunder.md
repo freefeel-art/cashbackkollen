@@ -62,6 +62,8 @@ När cashbacken är godkänd kan den betalas ut enligt Refunders rutiner.
 
 Då är processen avslutad.
 
+För en mer detaljerad genomgång av hela flödet kan du läsa vår guide om [hur Refunder fungerar](/hur-fungerar-refunder/).
+
 ## Varför tar det så lång tid?
 
 Många användare tror att Refunder själv bestämmer väntetiden.
@@ -115,6 +117,8 @@ Vanliga orsaker är:
 
 Om något verkar fel bör du kontrollera köpinformationen och följa Refunders rutiner för ärenden och support.
 
+Om köpet inte syns alls kan du läsa vår guide om [varför cashback inte registreras hos Refunder](/varfor-registreras-inte-min-cashback-hos-refunder/).
+
 ## Hur vet jag om cashback registrerats?
 
 Normalt visas köpet i ditt konto efter registrering.
@@ -151,6 +155,10 @@ Nej. Köpet måste uppfylla butikens villkor och godkännas.
 ### Kan Refunder betala ut cashback direkt?
 
 Nej. Cashback måste först verifieras av butiken.
+
+### Är långa väntetider ett tecken på att Refunder är osäkert?
+
+Normalt inte. Läs mer i vår artikel om [huruvida Refunder är säkert](/ar-refunder-sakert/).
 
 ## Sammanfattning
 

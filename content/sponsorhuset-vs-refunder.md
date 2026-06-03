@@ -34,6 +34,10 @@ Skillnaden är att fokus ligger på att maximera användarens egen cashback. Hel
 
 Refunder är idag en av Sveriges största cashback-tjänster med ett mycket brett utbud av nätbutiker.
 
+Du kan läsa mer i vår [Refunder-recension](/refunder-recension/).
+
+Om du är ny inom ämnet rekommenderar vi även vår guide om [hur cashback fungerar](/hur-fungerar-cashback/).
+
 ## Den stora skillnaden
 
 Den viktigaste skillnaden mellan tjänsterna handlar inte om tekniken utan om syftet.
@@ -131,6 +135,8 @@ Refunder passar bäst för dig som:
 - Vill maximera din egen cashback
 - Handlar ofta online
 - Vill ha tillgång till många butiker
+
+Du kan även jämföra med andra alternativ i vår guide till [de bästa cashback-sidorna i Sverige](/basta-cashback-sidor-i-sverige/).
 
 ## Vår bedömning
 

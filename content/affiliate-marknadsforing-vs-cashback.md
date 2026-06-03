@@ -31,6 +31,8 @@ Webbplatser, bloggar, jämförelsesajter och andra partners använder affiliate-
 
 Om kunden genomför köpet betalas provision.
 
+För en djupare genomgång kan du läsa vår guide om [vad affiliate-marknadsföring är](/vad-ar-affiliate-marknadsforing/).
+
 ## Vad är cashback?
 
 Cashback innebär att en konsument får tillbaka en del av köpesumman efter ett genomfört köp.
@@ -45,6 +47,8 @@ Istället sker processen så här:
 4. En del av provisionen delas med kunden.
 
 Det är därför cashback kan erbjudas utan medlemsavgift.
+
+Läs även vår grundläggande guide om [vad cashback är](/vad-ar-cashback/).
 
 ## De viktigaste skillnaderna
 
@@ -120,6 +124,8 @@ Problem kan uppstå om:
 - produkter returneras
 
 I sådana fall kan provision och cashback utebli.
+
+Om du vill förstå den ekonomiska modellen bakom detta kan du läsa vår guide om [hur cashback-sidor tjänar pengar](/hur-tjanar-cashback-sidor-pengar/).
 
 ## Vanliga missförstånd
 

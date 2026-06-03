@@ -17,6 +17,8 @@ När du handlar via Refunder sker processen vanligtvis så här:
 
 Det är skillnaden mellan provisionen och cashbacken som utgör en viktig del av Refunders intäkter.
 
+För att förstå hela processen rekommenderar vi även vår guide om [hur Refunder fungerar](/hur-fungerar-refunder/).
+
 ## Vad är affiliate-marknadsföring?
 
 Affiliate-marknadsföring är en prestationsbaserad marknadsföringsmodell där företag betalar för faktiska resultat.
@@ -24,6 +26,8 @@ Affiliate-marknadsföring är en prestationsbaserad marknadsföringsmodell där 
 Istället för att betala för annonsvisningar betalar butiken endast när ett köp eller en annan önskad handling genomförs.
 
 Det gör modellen attraktiv för både företag och cashback-tjänster.
+
+Läs mer om [vad affiliate-marknadsföring är](/vad-ar-affiliate-marknadsforing/).
 
 ## Hur ser pengaflödet ut?
 
@@ -158,5 +162,7 @@ Ja. Affiliate-marknadsföring är en etablerad och laglig marknadsföringsmodell
 ## Sammanfattning
 
 Refunder tjänar pengar genom affiliate-marknadsföring. När en medlem handlar via Refunders länkar betalar butiken provision till Refunder. En del av provisionen delas med användaren som cashback medan Refunder behåller resten som intäkt.
+
+Om du vill läsa mer om säkerhet och användarupplevelse kan du även läsa vår guide om [huruvida Refunder är säkert](/ar-refunder-sakert/).
 
 Det är denna modell som gör det möjligt att erbjuda cashback utan medlemsavgifter och samtidigt skapa ett värde för både kunder och butiker.
