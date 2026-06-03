@@ -83,3 +83,15 @@ I de flesta fall kan användaren kontakta cashback-tjänstens support och skicka
 Cashback fungerar genom att köp spåras mellan användaren, butiken och cashback-tjänsten. När spårningen fungerar korrekt kan en del av butikens provision delas med kunden i form av cashback.
 
 För att öka chansen att cashback registreras korrekt är det viktigt att följa butikens villkor och genomföra köpet direkt efter att man klickat vidare från cashback-tjänsten.
+
+## Exempel på cashback hos nätbutiker
+
+Cashback används av många välkända nätbutiker.
+
+Läs mer:
+
+- [Zalando cashback](/guider/zalando-cashback)
+- [Booking cashback](/guider/booking-cashback)
+- [CDON cashback](/guider/cdon-cashback)
+- [Apotea cashback](/guider/apotea-cashback)
+- [Amazon cashback](/guider/amazon-cashback)

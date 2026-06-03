@@ -196,3 +196,13 @@ Vill du fördjupa dig ytterligare? Se även våra guider och jämförelser:
 - [Refunder vs Cashbacker](/guider/refunder-vs-cashbacker)
 - [Refunder vs MyBonus](/guider/refunder-vs-mybonus)
 - [Sponsorhuset vs Refunder](/guider/sponsorhuset-vs-refunder)
+
+## Cashback hos populära butiker
+
+Exempel på butiker där cashback ofta erbjuds:
+
+- [Zalando cashback](/guider/zalando-cashback)
+- [Booking cashback](/guider/booking-cashback)
+- [CDON cashback](/guider/cdon-cashback)
+- [Apotea cashback](/guider/apotea-cashback)
+- [Amazon cashback](/guider/amazon-cashback)

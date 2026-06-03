@@ -152,3 +152,15 @@ Om du vill jämföra olika cashback-tjänster mer i detalj kan du läsa våra j�
 - [Hur fungerar cashback?](/guider/hur-fungerar-cashback)
 - [Är cashback säkert?](/guider/ar-cashback-sakert)
 - [Hur tjänar cashback-sidor pengar?](/guider/hur-tjanar-cashback-sidor-pengar)
+
+## Cashback hos populära nätbutiker
+
+Många cashback-tjänster erbjuder cashback hos välkända nätbutiker.
+
+Läs våra guider:
+
+- [Zalando cashback](/guider/zalando-cashback)
+- [Booking cashback](/guider/booking-cashback)
+- [CDON cashback](/guider/cdon-cashback)
+- [Apotea cashback](/guider/apotea-cashback)
+- [Amazon cashback](/guider/amazon-cashback)
