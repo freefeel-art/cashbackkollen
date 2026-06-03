@@ -135,3 +135,18 @@ Det beror på vad du vill uppnå. Tjänsterna har delvis olika syften.
 ## Sammanfattning
 
 Sponsorhuset är en unik aktör på den svenska cashback-marknaden eftersom tjänsten kombinerar återbäring med stöd till föreningar och ideella organisationer. För användare som vill låta sin nätshopping bidra till något större än den egna plånboken kan Sponsorhuset vara ett mycket intressant alternativ.
+
+## Läs mer om Sponsorhuset
+
+Vill du veta mer om hur Sponsorhuset skiljer sig från andra cashback-tjänster?
+
+- [Sponsorhuset vs Refunder](/guider/sponsorhuset-vs-refunder)
+- [Bästa cashback-sidor i Sverige](/guider/basta-cashback-sidor-i-sverige)
+- [Hur fungerar cashback?](/guider/hur-fungerar-cashback)
+- [Vad är cashback?](/guider/vad-ar-cashback)
+
+### Föreningar och cashback
+
+- [Sponsorhuset vs Refunder](/guider/sponsorhuset-vs-refunder)
+
+Sponsorhuset är särskilt intressant för föreningar, lag och ideella organisationer som vill skapa extra intäkter genom medlemmarnas onlineköp.

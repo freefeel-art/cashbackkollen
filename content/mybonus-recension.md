@@ -136,3 +136,13 @@ Det beror på butik, kampanjer och cashbacknivåer vid köptillfället.
 ## Sammanfattning
 
 MyBonus är en svensk cashback-tjänst som ger användare möjlighet att få pengar tillbaka på nätköp. För personer som vill jämföra flera cashback-plattformar kan MyBonus vara ett intressant alternativ att använda tillsammans med andra cashback-sidor.
+
+## Läs mer om MyBonus och cashback
+
+Vill du jämföra MyBonus med andra cashback-tjänster? Se även våra guider:
+
+- [Refunder vs MyBonus](/guider/refunder-vs-mybonus)
+- [Bästa cashback-sidor i Sverige](/guider/basta-cashback-sidor-i-sverige)
+- [Hur fungerar cashback?](/guider/hur-fungerar-cashback)
+- [Är cashback säkert?](/guider/ar-cashback-sakert)
+- [Affiliate-marknadsföring vs cashback](/guider/affiliate-marknadsforing-vs-cashback)
