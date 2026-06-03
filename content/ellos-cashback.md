@@ -7,8 +7,6 @@ nätet, betalar Ellos en provision till en partner (till exempel en cashback-sid
 eller en kortutgivare) varje gång de förmedlar en betalande kund. Denna partner
 delar sedan provisionen med dig.
 
-(Internt länkförslag: Läs mer i vår djupdykning: [hur-fungerar-cashback].)
-
 För att detta ska fungera måste Ellos veta vem som skickade dig dit. Detta görs
 via spårningslänkar och "cookies". När du klickar dig vidare till Ellos från en
 bonusportal, placeras en liten textfil i din webbläsare som registrerar ditt
@@ -43,8 +41,6 @@ Provisionsnivåerna varierar ofta mellan olika sidor och kan dessutom ändras
 under specifika kampanjperioder, exempelvis under Black Week eller
 mellandagsrean.
 
-(Internt länkförslag: Nyfiken på de olika plattformarna? Läs exempelvis vår
-[refunder-recension] eller [bonusway-recension].)
 
 2. Belöningsprogram via bank eller app
 
@@ -130,9 +126,6 @@ andra på en banktransaktion) påverkar de inte varandra. Detta är ett utmärkt
 sätt att maximera det totala värdet du får tillbaka på dyrare beställningar,
 som inredning och möbler.
 
-(Internt länkförslag: Fördjupa dig i skillnaderna i vår artikel
-[cashbackkort-vs-cashback-sidor] och hitta rätt kort i vår lista över
-[basta-cashbackkort].)
 
 För- och nackdelar
 

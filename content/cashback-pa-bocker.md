@@ -1,7 +1,3 @@
-Här är en komplett, SEO-optimerad och extremt djupgående hubb-artikel (pillar
-page) skriven specifikt för Cashbackkollen.se. Den är utformad för att bygga
-maximal auktoritet inom bok- och litteratursegmentet.
-
 Din ultimata guide till cashback på böcker och kurslitteratur online
 
 Att läsa är en fantastisk hobby, och för många – inte minst studenter – är

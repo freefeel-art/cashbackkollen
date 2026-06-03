@@ -193,6 +193,14 @@ du dragit från kortet.
 
 Sammanfattning
 
+## Läs mer om cashback
+
+- [Vad är cashback?](/guider/vad-ar-cashback)
+- [Hur fungerar cashback?](/guider/hur-fungerar-cashback)
+- [Cashback på resor](/guider/cashback-pa-resor)
+- [Booking Cashback](/guider/booking-cashback)
+
+
 Att boka sina resor och hotellnätter via cashback-länkar är en no-brainer för
 den prismedvetne resenären. Eftersom hotellnätter är kapitalintensiva, är
 Hotels.com en av de butiker där du kan tjäna absolut mest pengar med minsta

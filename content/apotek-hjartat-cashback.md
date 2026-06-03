@@ -207,6 +207,14 @@ säkerställa att köpet spåras via cookies istället för i appen.
 
 Sammanfattning
 
+## Läs mer om cashback
+
+- [Vad är cashback?](/guider/vad-ar-cashback)
+- [Hur fungerar cashback?](/guider/hur-fungerar-cashback)
+- [Cashback på apotek](/guider/cashback-pa-apotek)
+- [Apotea Cashback](/guider/apotea-cashback)
+
+
 Att använda cashback när du handlar på Apotek Hjärtat är en av de smartaste
 konsumentvanorna du kan anamma, speciellt om du regelbundet köper
 apotekskosmetik, kosttillskott eller hygienartiklar till familjen. Eftersom

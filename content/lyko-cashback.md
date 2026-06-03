@@ -195,6 +195,13 @@ själva beställningen och betalningen slutförs online, spelar det ingen roll
 vilket fraktalternativ du väljer. Att välja "Instabox", "Hemleverans" eller
 "Hämta i butik (Click & Collect)" påverkar inte din rätt till återbäring.
 
+## Relaterade guider
+
+- [Cashback på kläder](/guider/cashback-pa-klader/)
+- [Ellos Cashback](/guider/ellos-cashback/)
+- [Zalando Cashback](/guider/zalando-cashback/)
+
+
 Sammanfattning
 
 Att utnyttja cashback när du handlar skönhet och hårvård på Lyko är en av de

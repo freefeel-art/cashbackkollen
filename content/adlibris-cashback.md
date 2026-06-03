@@ -194,6 +194,13 @@ säger ofta att B2B-köp (företagsköp) inte ger någon återbäring. Om du gö
 av kontorsmaterial eller facklitteratur till ditt företag rekommenderar vi att
 du istället använder ett företagskreditkort med inbyggd cashback.
 
+## Läs mer om cashback
+
+- [Vad är cashback?](/guider/vad-ar-cashback)
+- [Hur fungerar cashback?](/guider/hur-fungerar-cashback)
+- [Cashback på böcker](/guider/cashback-pa-bocker)
+
+
 Sammanfattning
 
 Att använda cashback vid inköp på Adlibris är ett av de enklaste sätten att

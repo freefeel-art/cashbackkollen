@@ -1,6 +1,3 @@
-Här är en komplett, SEO-optimerad och djupgående hubb-artikel (pillar page)
-skriven för Cashbackkollen.se, helt i enlighet med din content brief.
-
 Din ultimata guide till cashback på kläder och mode
 
 Att uppdatera garderoben inför en ny säsong, klicka hem den perfekta

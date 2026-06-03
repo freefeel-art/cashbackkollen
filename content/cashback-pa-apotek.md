@@ -1,7 +1,3 @@
-Här är en komplett, SEO-optimerad och mycket djupgående hubb-artikel (pillar
-page) skriven specifikt för Cashbackkollen.se. Den är utformad för att bygga
-massiv auktoritet och trovärdighet (E-E-A-T) kring apotekssegmentet i Sverige.
-
 Din ultimata guide till cashback på apotek online: Så maximerar du dina besparingar
 
 Att handla på apotek är en oundviklig del av livet för de allra flesta. Oavsett

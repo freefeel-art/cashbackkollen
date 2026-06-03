@@ -1,11 +1,3 @@
-Här är en komplett, SEO-optimerad och djupgående hubb-artikel (pillar page)
-skriven specifikt för Cashbackkollen.se, helt fokuserad på resor.
-
-(Notering: Din instruktion nämnde "cashback on clothing resor" i sista meningen,
-vilket var en uppenbar felskrivning från din förra kläd-brief. Denna artikel är
-till 100 % skräddarsydd för resebranschen, hotell och flyg, för att bygga
-maximal auktoritet inom detta specifika, lukrativa segment).
-
 Din ultimata guide till cashback på resor: Så maximerar du reskassan
 
 Att åka på semester, boka weekendresor eller ordna med boende för tjänsteresan
