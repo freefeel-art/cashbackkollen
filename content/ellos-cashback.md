@@ -1,23 +1,3 @@
-Här är ett komplett, SEO-optimerat och djupgående utkast för Cashbackkollen.se
-om Ellos Cashback. Artikeln är skriven för att vara den mest pålitliga och
-oberoende resursen i Sverige, helt i enlighet med din brief.
-
-Få Bästa Möjliga Cashback hos Ellos: Den Kompletta Guiden
-
-Att handla kläder, möbler och inredning på nätet har blivit en självklarhet för
-många svenskar, och Ellos är en av landets mest populära e-handelsplatser. Men
-visste du att du nästan alltid kan få pengar tillbaka på dina inköp där? Genom
-att utnyttja så kallad cashback kan du sänka dina kostnader markant, oavsett om
-du uppdaterar garderoben eller köper en ny soffa.
-
-På Cashbackkollen.se strävar vi efter att ge dig oberoende och transparent
-information om hur du maximerar dina besparingar. I den här guiden går vi igenom
-exakt hur cashback på Ellos fungerar, vilka fallgropar du måste undvika och hur
-du som smart konsument kan säkerställa att din återbäring faktiskt registreras.
-
-(Internt länkförslag: Vill du läsa mer om grunderna? Läs vår stora guide om
-[vad-ar-cashback].)
-
 Hur cashback fungerar på Ellos
 
 Grundprincipen för att få cashback när du shoppar på Ellos är enkel, men
