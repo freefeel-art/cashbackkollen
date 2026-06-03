@@ -161,3 +161,10 @@ Vissa är gratis medan andra har årsavgifter eller särskilda villkor.
 Refunder och cashbackkort är två olika sätt att få pengar tillbaka på köp. Refunder kan ge högre cashback hos vissa anslutna butiker medan cashbackkort erbjuder en enklare och mer automatisk lösning.
 
 För många konsumenter behöver valet inte vara antingen eller. I vissa situationer kan det vara möjligt att kombinera båda och därmed maximera återbäringen på sina köp.
+
+## Läs mer om cashbackkort
+
+- [Bästa cashbackkort i Sverige](/guider/basta-cashbackkort)
+- [Hur fungerar cashbackkort?](/guider/hur-fungerar-cashbackkort)
+- [Bank Norwegian Kreditkort](/guider/bank-norwegian-kreditkort)
+- [re:member flex](/guider/remember-flex-kreditkort)
