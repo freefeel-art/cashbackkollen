@@ -140,3 +140,13 @@ Det finns inget generellt svar. Det beror på butik, kampanj och cashbacknivå v
 ## Sammanfattning
 
 Cashbacker är en svensk cashback-tjänst som erbjuder pengar tillbaka på köp hos anslutna nätbutiker. För användare som vill jämföra cashback mellan flera plattformar kan Cashbacker vara ett intressant alternativ att undersöka tillsammans med större aktörer som Refunder och Bonusway.
+
+## Läs mer om Cashbacker och cashback
+
+Vill du jämföra Cashbacker med andra cashback-tjänster? Se även våra guider:
+
+- [Refunder vs Cashbacker](/guider/refunder-vs-cashbacker)
+- [Bästa cashback-sidor i Sverige](/guider/basta-cashback-sidor-i-sverige)
+- [Hur fungerar cashback?](/guider/hur-fungerar-cashback)
+- [Är cashback säkert?](/guider/ar-cashback-sakert)
+- [Affiliate-marknadsföring vs cashback](/guider/affiliate-marknadsforing-vs-cashback)
