@@ -179,3 +179,20 @@ Refunder är en av Sveriges mest etablerade cashback-tjänster och kan vara ett 
 För användare som handlar online regelbundet kan cashback ge ett extra värde över tid, även om det är viktigt att förstå att registrering och utbetalning inte alltid sker omedelbart.
 
 För de flesta konsumenter som vill prova cashback är Refunder ett naturligt första alternativ att utvärdera.
+
+## Läs mer om Refunder
+
+Vill du fördjupa dig ytterligare? Se även våra guider och jämförelser:
+
+- [Hur fungerar Refunder?](/guider/hur-fungerar-refunder)
+- [Är Refunder säkert?](/guider/ar-refunder-sakert)
+- [Hur tjänar Refunder pengar?](/guider/hur-tjanar-refunder-pengar)
+- [Hur lång tid tar det att få cashback hos Refunder?](/guider/hur-lang-tid-tar-det-att-fa-cashback-hos-refunder)
+- [Varför registreras inte min cashback hos Refunder?](/guider/varfor-registreras-inte-min-cashback-hos-refunder)
+
+### Jämförelser
+
+- [Refunder vs Bonusway](/guider/refunder-vs-bonusway)
+- [Refunder vs Cashbacker](/guider/refunder-vs-cashbacker)
+- [Refunder vs MyBonus](/guider/refunder-vs-mybonus)
+- [Sponsorhuset vs Refunder](/guider/sponsorhuset-vs-refunder)
