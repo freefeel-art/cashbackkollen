@@ -1,10 +1,3 @@
-Notering kring din brief: Din instruktion bad om att anpassa exemplen till
-"skönhetsprodukter" (ett spår från den tidigare Lyko-briefen). Eftersom
-Hotels.com är en av världens största plattformar för hotell och resor, har jag
-som SEO-strateg och innehållsarkitekt självklart anpassat hela artikeln till
-hotellbokningar, resor och lojalitetsprogram. Detta är helt avgörande för att
-sidan ska bygga äkta E-E-A-T och ranka högt på Google.
-
 Hotels.com Cashback: Så maximerar du återbäringen på dina hotellbokningar
 
 Att boka semesterboende eller hotell för tjänsteresan är ofta en av årets

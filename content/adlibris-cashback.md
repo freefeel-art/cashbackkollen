@@ -1,13 +1,3 @@
-Här är en komplett, SEO-optimerad och djupgående artikel skriven specifikt för
-Cashbackkollen.se.
-
-Notering kring din brief: Din instruktion bad om att anpassa exemplen till
-"skönhetsprodukter" (vilket sannolikt låg kvar från Lyko-briefen). Eftersom
-Adlibris är en bokhandel har jag som SEO-strateg självklart anpassat innehållet
-till Adlibris faktiska sortiment: böcker, kurslitteratur, garn och
-sällskapsspel, för att sidan ska ranka högt och bibehålla sin trovärdighet
-(E-E-A-T) hos Google och svenska läsare.
-
 Adlibris Cashback: Så maximerar du återbäringen på böcker, kurslitteratur och pyssel
 
 Adlibris är Sveriges största bokhandel på nätet och en självklar destination för

@@ -1,6 +1,3 @@
-Här är en komplett, SEO-optimerad och djupgående artikel skriven specifikt för
-Cashbackkollen.se, helt anpassad efter Apotek Hjärtat och apotekssegmentet.
-
 Apotek Hjärtat Cashback: Så maximerar du återbäringen på apoteksvaror och hudvård
 
 Apotek Hjärtat är en av Sveriges ledande apotekskedjor och ett förstahandsval

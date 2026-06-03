@@ -190,6 +190,13 @@ varumärken utöver sitt eget märke. Som utgångspunkt gäller cashbacken ofta 
 hela sortimentet, men det kan förekomma tillfälliga undantag, speciellt för dyr
 elektronik. Kontrollera alltid villkorstexten innan köp.
 
+## Relaterade guider
+
+- [Cashback på kläder](/guider/cashback-pa-klader/)
+- [Zalando Cashback](/guider/zalando-cashback/)
+- [Lyko Cashback](/guider/lyko-cashback/)
+
+
 Sammanfattning
 
 Att använda cashback vid inköp på Ellos är ett av de mest effektiva sätten att

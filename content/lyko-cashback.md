@@ -1,6 +1,3 @@
-Här är en komplett, SEO-optimerad och djupgående artikel skriven specifikt för
-Cashbackkollen.se, helt anpassad efter Lyko och skönhetssegmentet.
-
 Lyko Cashback: Så maximerar du återbäringen på skönhet och hårvård
 
 Att bygga upp en bra hudvårdsrutin, investera i högkvalitativa hårprodukter
