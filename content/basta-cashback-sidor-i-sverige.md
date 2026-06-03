@@ -127,3 +127,28 @@ Ja, cashback bygger på affiliate-marknadsföring och används av många etabler
 De bästa cashback-sidorna i Sverige är vanligtvis Refunder, MyBonus och Cashbacker. Vilken tjänst som passar bäst beror på dina köpvanor och vilka butiker du använder mest.
 
 För många användare är Refunder det första alternativet att prova, men det kan vara klokt att jämföra flera tjänster för att hitta den bästa cashbacken för varje köp.
+
+## Jämförelser mellan cashback-sidor
+
+Om du vill jämföra olika cashback-tjänster mer i detalj kan du läsa våra jämförelser:
+
+- [Refunder vs Bonusway](/guider/refunder-vs-bonusway)
+- [Refunder vs Cashbacker](/guider/refunder-vs-cashbacker)
+- [Refunder vs MyBonus](/guider/refunder-vs-mybonus)
+- [Sponsorhuset vs Refunder](/guider/sponsorhuset-vs-refunder)
+- [Refunder vs Cashbackkort](/guider/refunder-vs-cashbackkort)
+
+## Läs våra recensioner
+
+- [Refunder recension](/guider/refunder-recension)
+- [Bonusway recension](/guider/bonusway-recension)
+- [Cashbacker recension](/guider/cashbacker-recension)
+- [MyBonus recension](/guider/mybonus-recension)
+- [Sponsorhuset recension](/guider/sponsorhuset-recension)
+
+## Lär dig mer om cashback
+
+- [Vad är cashback?](/guider/vad-ar-cashback)
+- [Hur fungerar cashback?](/guider/hur-fungerar-cashback)
+- [Är cashback säkert?](/guider/ar-cashback-sakert)
+- [Hur tjänar cashback-sidor pengar?](/guider/hur-tjanar-cashback-sidor-pengar)
