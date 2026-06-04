@@ -24,7 +24,7 @@ Om användaren genomför ett köp inom den period som företaget definierat regi
 
 Detta gör det möjligt för företag att mäta exakt vilka marknadsföringskanaler som leder till försäljning.
 
-För en djupare genomgång kan du läsa vår guide om [hur affiliate-länkar fungerar](/hur-fungerar-affiliate-lankar/).
+För en djupare genomgång kan du läsa vår guide om [hur affiliate-länkar fungerar](/guider/hur-fungerar-affiliate-lankar).
 
 ## Vad är en affiliate-länk?
 
@@ -53,7 +53,7 @@ Exempel på välkända affiliate-nätverk är:
 
 Nätverken hjälper företag att administrera sina program och gör det enklare för partners att samarbeta med många olika annonsörer.
 
-Läs mer i vår artikel om [vad ett affiliate-nätverk är](/vad-ar-ett-affiliate-natverk/).
+Läs mer i vår artikel om [vad ett affiliate-nätverk är](/guider/vad-ar-ett-affiliate-natverk).
 
 ## Hur tjänar affiliates pengar?
 
@@ -102,7 +102,7 @@ Affiliate-marknadsföring och cashback är nära kopplade men inte samma sak.
 
 Cashback bygger alltså ofta på affiliate-marknadsföring, men affiliate-marknadsföring används även i många andra typer av verksamheter.
 
-Du kan läsa mer i vår jämförelse mellan [affiliate-marknadsföring och cashback](/affiliate-marknadsforing-vs-cashback/).
+Du kan läsa mer i vår jämförelse mellan [affiliate-marknadsföring och cashback](/guider/affiliate-marknadsforing-vs-cashback).
 
 ## Fördelar med affiliate-marknadsföring
 

@@ -38,7 +38,7 @@ Om en extern rabattkod används kan en annan partner få provisionen istället.
 
 Då kan cashback utebli.
 
-Läs mer om [hur affiliate-länkar fungerar](/hur-fungerar-affiliate-lankar/).
+Läs mer om [hur affiliate-länkar fungerar](/guider/hur-fungerar-affiliate-lankar).
 
 ## Godkända rabattkoder
 
@@ -80,7 +80,7 @@ Om cashback saknas efter köpet kan orsaken vara att rabattkoden påverkat spår
 
 Det finns även andra möjliga orsaker.
 
-Läs vår guide om [varför cashback inte registreras](/varfor-registreras-inte-min-cashback/).
+Läs vår guide om [varför cashback inte registreras](/guider/varfor-registreras-inte-min-cashback).
 
 ## Tips för att kombinera rabattkod och cashback
 

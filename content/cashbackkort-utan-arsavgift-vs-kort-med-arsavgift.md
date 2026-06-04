@@ -22,7 +22,7 @@ Vanliga exempel är kort som erbjuder:
 - Bonuspoäng
 - Rabatter hos samarbetspartners
 
-Läs mer i vår guide om [cashbackkort utan årsavgift](/cashbackkort-utan-arsavgift/).
+Läs mer i vår guide om [cashbackkort utan årsavgift](/guider/cashbackkort-utan-arsavgift).
 
 ## Vad är ett cashbackkort med årsavgift?
 
@@ -84,7 +84,7 @@ Personer som främst använder kortet till mat, shopping och vardagsutgifter vä
 
 Resenärer kan ibland få större nytta av kort med fler reseförmåner.
 
-Läs mer i vår guide om [bästa cashbackkort för resor](/basta-cashbackkort-for-resor/).
+Läs mer i vår guide om [bästa cashbackkort för resor](/guider/basta-cashbackkort-for-resor).
 
 ## Sammanfattning
 
@@ -94,4 +94,4 @@ För vissa användare räcker ett avgiftsfritt cashbackkort långt. För andra k
 
 Det viktigaste är att jämföra hela erbjudandet och förstå hur kortet passar dina egna vanor.
 
-Se även vår guide till [bästa cashbackkort i Sverige](/basta-cashbackkort/).
+Se även vår guide till [bästa cashbackkort i Sverige](/guider/basta-cashbackkort).

@@ -185,9 +185,9 @@ elektronik. Kontrollera alltid villkorstexten innan köp.
 
 ## Relaterade guider
 
-- [Cashback på kläder](/guider/cashback-pa-klader/)
-- [Zalando Cashback](/guider/zalando-cashback/)
-- [Lyko Cashback](/guider/lyko-cashback/)
+- [Cashback på kläder](/guider/cashback-pa-klader)
+- [Zalando Cashback](/guider/zalando-cashback)
+- [Lyko Cashback](/guider/lyko-cashback)
 
 
 Sammanfattning

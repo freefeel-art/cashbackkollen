@@ -25,7 +25,7 @@ Ett cashbackkort utan årsavgift är ett kreditkort som ger någon form av åter
 
 Syftet är detsamma – att ge något tillbaka när du använder kortet.
 
-Om du är ny inom området kan du börja med att läsa vår guide om [hur cashbackkort fungerar](/hur-fungerar-cashbackkort/).
+Om du är ny inom området kan du börja med att läsa vår guide om [hur cashbackkort fungerar](/guider/hur-fungerar-cashbackkort).
 
 ## Fördelar med cashbackkort utan årsavgift
 
@@ -51,8 +51,8 @@ Dessa kort ger cashback eller bonus på de flesta köp oavsett kategori.
 
 Exempel:
 
-- [Bank Norwegian Kreditkort](/bank-norwegian-kreditkort/)
-- [re:member flex](/remember-flex-kreditkort/)
+- [Bank Norwegian Kreditkort](/guider/bank-norwegian-kreditkort)
+- [re:member flex](/guider/remember-flex-kreditkort)
 - Andra bonuskort från banker och finansbolag
 
 ### Matkort
@@ -84,7 +84,7 @@ Vanliga nivåer är:
 
 Det är viktigt att titta på hela erbjudandet och inte bara den högsta marknadsförda procentsatsen.
 
-För en bred överblick kan du läsa vår sammanställning över [bästa cashbackkort i Sverige](/basta-cashbackkort/).
+För en bred överblick kan du läsa vår sammanställning över [bästa cashbackkort i Sverige](/guider/basta-cashbackkort).
 
 ## Cashbackkort eller cashback-sidor?
 
@@ -96,7 +96,7 @@ Med cashback-sidor måste du gå via en särskild länk innan du handlar.
 
 Många väljer att kombinera båda metoderna för att maximera sin återbäring.
 
-Läs mer i vår jämförelse mellan [cashbackkort och cashback-sidor](/cashbackkort-vs-cashback-sidor/).
+Läs mer i vår jämförelse mellan [cashbackkort och cashback-sidor](/guider/cashbackkort-vs-cashback-sidor).
 
 ## Att tänka på innan du skaffar ett cashbackkort
 
@@ -118,4 +118,4 @@ Cashbackkort utan årsavgift är ett populärt alternativ för den som vill få 
 
 På den svenska marknaden finns både allroundkort, matkort och bensinkort som erbjuder någon form av cashback eller bonus. Vilket alternativ som passar bäst beror på hur du handlar och vilka förmåner du värdesätter mest.
 
-För fler alternativ och jämförelser, se vår guide till [bästa cashbackkort](/basta-cashbackkort/).
+För fler alternativ och jämförelser, se vår guide till [bästa cashbackkort](/guider/basta-cashbackkort).

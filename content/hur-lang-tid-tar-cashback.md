@@ -49,14 +49,14 @@ Exempel:
 
 Om cashback inte registreras alls kan det bero på tekniska problem eller spårningsfel.
 
-Läs mer i vår guide om [varför cashback inte registreras](/varfor-registreras-inte-min-cashback/).
+Läs mer i vår guide om [varför cashback inte registreras](/guider/varfor-registreras-inte-min-cashback).
 
 ## Hur fungerar processen?
 
-Om du vill förstå hela flödet rekommenderar vi vår artikel om [hur cashback fungerar](/hur-fungerar-cashback/).
+Om du vill förstå hela flödet rekommenderar vi vår artikel om [hur cashback fungerar](/guider/hur-fungerar-cashback).
 
 ## Sammanfattning
 
 Cashback betalas sällan ut direkt. De flesta köp behöver först godkännas av butiken innan cashbacken blir tillgänglig för utbetalning.
 
-Vill du förstå varför cashback kan ta tid att godkännas kan du även läsa om [hur cashback-sidor tjänar pengar](/hur-tjanar-cashback-sidor-pengar/).
+Vill du förstå varför cashback kan ta tid att godkännas kan du även läsa om [hur cashback-sidor tjänar pengar](/guider/hur-tjanar-cashback-sidor-pengar).

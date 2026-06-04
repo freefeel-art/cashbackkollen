@@ -197,9 +197,9 @@ vilket fraktalternativ du väljer. Att välja "Instabox", "Hemleverans" eller
 
 ## Relaterade guider
 
-- [Cashback på kläder](/guider/cashback-pa-klader/)
-- [Ellos Cashback](/guider/ellos-cashback/)
-- [Zalando Cashback](/guider/zalando-cashback/)
+- [Cashback på kläder](/guider/cashback-pa-klader)
+- [Ellos Cashback](/guider/ellos-cashback)
+- [Zalando Cashback](/guider/zalando-cashback)
 
 
 Sammanfattning

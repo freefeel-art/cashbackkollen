@@ -56,7 +56,7 @@ Vissa kort ger extra bonus på:
 
 För många resenärer är ett kort utan årsavgift attraktivt eftersom kostnaden hålls nere även under perioder med mindre resande.
 
-Du kan läsa mer i vår guide om [cashbackkort utan årsavgift](/cashbackkort-utan-arsavgift/).
+Du kan läsa mer i vår guide om [cashbackkort utan årsavgift](/guider/cashbackkort-utan-arsavgift).
 
 ### Låga avgifter utomlands
 
@@ -73,7 +73,7 @@ På den svenska marknaden nämns ofta följande kort i samband med resor och cas
 
 Olika kort passar olika typer av resenärer beroende på hur ofta man reser och vilka bonusprogram man använder.
 
-Läs vår genomgång av [Bank Norwegian Kreditkort](/bank-norwegian-kreditkort/) för ett exempel på ett kort som ofta diskuteras bland resenärer.
+Läs vår genomgång av [Bank Norwegian Kreditkort](/guider/bank-norwegian-kreditkort) för ett exempel på ett kort som ofta diskuteras bland resenärer.
 
 ## Cashback eller flygpoäng?
 
@@ -112,7 +112,7 @@ Exempel:
 2. Betala med ett cashbackkort.
 3. Få återbäring från båda systemen.
 
-Läs mer i vår guide om [cashbackkort vs cashback-sidor](/cashbackkort-vs-cashback-sidor/).
+Läs mer i vår guide om [cashbackkort vs cashback-sidor](/guider/cashbackkort-vs-cashback-sidor).
 
 ## Vad ska man jämföra?
 
@@ -134,4 +134,4 @@ Det bästa cashbackkortet för resor beror på hur du reser och vilka förmåner
 
 Vissa resenärer föredrar enkel cashback medan andra får större värde genom flygpoäng eller hotellbonusar. Genom att jämföra både cashback, avgifter och reseförmåner blir det enklare att hitta ett alternativ som passar dina behov.
 
-Om du vill se fler alternativ kan du läsa vår guide till [bästa cashbackkort i Sverige](/basta-cashbackkort/).
+Om du vill se fler alternativ kan du läsa vår guide till [bästa cashbackkort i Sverige](/guider/basta-cashbackkort).
