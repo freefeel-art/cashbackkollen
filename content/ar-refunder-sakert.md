@@ -41,7 +41,7 @@ Tjänsten samarbetar med ett stort antal välkända e-handlare och använder aff
 
 Det innebär att butiker betalar provision när köp genomförs via Refunders länkar. En del av provisionen delas sedan med användaren som cashback.
 
-För en fullständig genomgång kan du läsa vår [Refunder-recension](/refunder-recension/).
+För en fullständig genomgång kan du läsa vår [Refunder-recension](/guider/refunder-recension).
 
 ## Får man verkligen cashback?
 
@@ -57,7 +57,7 @@ Processen ser normalt ut så här:
 
 Det är viktigt att förstå att cashback normalt inte betalas ut direkt efter köpet.
 
-Du kan läsa mer om [hur Refunder fungerar](/hur-fungerar-refunder/).
+Du kan läsa mer om [hur Refunder fungerar](/guider/hur-fungerar-refunder).
 
 ## Kan man förlora pengar genom att använda Refunder?
 
@@ -97,7 +97,7 @@ Vanliga orsaker är:
 
 Dessa problem påverkar registreringen men innebär inte att tjänsten är osäker.
 
-Läs även vår guide om [varför cashback inte registreras hos Refunder](/varfor-registreras-inte-min-cashback-hos-refunder/).
+Läs även vår guide om [varför cashback inte registreras hos Refunder](/guider/varfor-registreras-inte-min-cashback-hos-refunder).
 
 ## Är cashback för bra för att vara sant?
 

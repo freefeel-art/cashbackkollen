@@ -29,7 +29,7 @@ Om allt fungerar korrekt får Refunder information om köpet och cashback kan re
 
 Om någon del av processen bryts kan spårningen misslyckas.
 
-För en fullständig genomgång av processen kan du läsa vår guide om [hur Refunder fungerar](/hur-fungerar-refunder/).
+För en fullständig genomgång av processen kan du läsa vår guide om [hur Refunder fungerar](/guider/hur-fungerar-refunder).
 
 ## Vanligaste orsakerna
 
@@ -118,7 +118,7 @@ Om köpet inte registreras trots att du följt rekommendationerna bör du:
 
 Ju mer information du har kvar desto lättare blir det att undersöka vad som hänt.
 
-Du kan även läsa om [hur lång tid det tar att få cashback hos Refunder](/hur-lang-tid-tar-det-att-fa-cashback-hos-refunder/) eftersom många användare tror att cashback saknas när den egentligen fortfarande väntar på verifiering.
+Du kan även läsa om [hur lång tid det tar att få cashback hos Refunder](/guider/hur-lang-tid-tar-det-att-fa-cashback-hos-refunder) eftersom många användare tror att cashback saknas när den egentligen fortfarande väntar på verifiering.
 
 ## Är utebliven cashback ett tecken på att Refunder är osäkert?
 
@@ -128,7 +128,7 @@ De flesta problem handlar om spårning och inte om säkerhet.
 
 Cashback bygger på att flera tekniska system kommunicerar med varandra och ibland uppstår fel i processen.
 
-Läs mer i vår guide om [huruvida Refunder är säkert](/ar-refunder-sakert/).
+Läs mer i vår guide om [huruvida Refunder är säkert](/guider/ar-refunder-sakert).
 
 ## Vanliga frågor
 

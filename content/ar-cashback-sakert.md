@@ -18,7 +18,7 @@ Cashback bygger på affiliate-marknadsföring.
 
 När du handlar via en cashback-sida får sidan provision från butiken och delar sedan en del av ersättningen med dig.
 
-Läs mer i vår guide om [hur cashback fungerar](/hur-fungerar-cashback/).
+Läs mer i vår guide om [hur cashback fungerar](/guider/hur-fungerar-cashback).
 
 ## Vilka uppgifter delas?
 
@@ -38,7 +38,7 @@ De vanligaste riskerna handlar inte om säkerhet utan om:
 - Felaktig spårning
 - Långa väntetider
 
-Om cashback inte registreras kan du läsa vår guide om [varför cashback inte registreras](/varfor-registreras-inte-min-cashback/).
+Om cashback inte registreras kan du läsa vår guide om [varför cashback inte registreras](/guider/varfor-registreras-inte-min-cashback).
 
 Därför är det viktigt att använda etablerade cashback-tjänster.
 
@@ -46,4 +46,4 @@ Därför är det viktigt att använda etablerade cashback-tjänster.
 
 För de flesta användare är cashback säkert så länge man använder seriösa cashback-sidor och följer deras villkor.
 
-Om du vill förstå grunderna rekommenderar vi även artikeln om [vad cashback är](/vad-ar-cashback/).
+Om du vill förstå grunderna rekommenderar vi även artikeln om [vad cashback är](/guider/vad-ar-cashback).

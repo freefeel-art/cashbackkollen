@@ -28,7 +28,7 @@ Istället för att behålla hela provisionen delar cashback-tjänsten en del av 
 
 Det innebär att du kan få tillbaka pengar på köp som du ändå planerade att genomföra.
 
-Läs även vår guide om [hur cashback fungerar](/hur-fungerar-cashback/).
+Läs även vår guide om [hur cashback fungerar](/guider/hur-fungerar-cashback).
 
 ## Vad är Refunder?
 
@@ -36,7 +36,7 @@ Refunder är Sveriges största cashback-tjänst och samarbetar med ett stort ant
 
 Tjänsten har under många år byggt upp ett starkt varumärke och används av hundratusentals svenska konsumenter.
 
-Du kan läsa mer i vår [Refunder-recension](/refunder-recension/).
+Du kan läsa mer i vår [Refunder-recension](/guider/refunder-recension).
 
 ## Vad är MyBonus?
 

@@ -26,7 +26,7 @@ Processen ser vanligtvis ut så här:
 
 Om något av dessa steg störs kan cashback utebli.
 
-För att förstå processen bättre kan du läsa vår guide om [hur cashback fungerar](/hur-fungerar-cashback/).
+För att förstå processen bättre kan du läsa vår guide om [hur cashback fungerar](/guider/hur-fungerar-cashback).
 
 ## Adblockers och spårningsskydd
 
@@ -52,7 +52,7 @@ Om du använder:
 
 kan cashbacken ibland bli ogiltig.
 
-Läs även vår guide om [rabattkod och cashback samtidigt](/kan-man-anvanda-rabattkod-och-cashback/).
+Läs även vår guide om [rabattkod och cashback samtidigt](/guider/kan-man-anvanda-rabattkod-och-cashback).
 
 ## Byte av enhet eller webbläsare
 
@@ -83,7 +83,7 @@ I vissa fall kan det ta några dagar innan ett köp syns på ditt konto.
 
 Olika butiker har olika rapporteringstider.
 
-Du kan läsa mer om [hur lång tid cashback tar](/hur-lang-tid-tar-cashback/).
+Du kan läsa mer om [hur lång tid cashback tar](/guider/hur-lang-tid-tar-cashback).
 
 ## Vad kan du göra?
 

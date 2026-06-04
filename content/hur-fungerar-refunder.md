@@ -81,7 +81,7 @@ Tiden varierar beroende på butik och produktkategori.
 
 I vissa fall kan processen ta flera veckor eller månader.
 
-Du kan läsa mer om [hur lång tid det tar att få cashback hos Refunder](/hur-lang-tid-tar-det-att-fa-cashback-hos-refunder/).
+Du kan läsa mer om [hur lång tid det tar att få cashback hos Refunder](/guider/hur-lang-tid-tar-det-att-fa-cashback-hos-refunder).
 
 ## Steg 8: Utbetalning
 
@@ -99,7 +99,7 @@ En del av provisionen går till användaren som cashback och en del behåller Re
 
 Det är därför tjänsten kan erbjuda cashback utan att ta ut någon medlemsavgift.
 
-Läs mer om [hur Refunder tjänar pengar](/hur-tjanar-refunder-pengar/).
+Läs mer om [hur Refunder tjänar pengar](/guider/hur-tjanar-refunder-pengar).
 
 ## Varför registreras inte cashback ibland?
 
@@ -127,7 +127,7 @@ Om du klickar på en enhet och slutför köpet på en annan kan registreringen m
 
 Om du besöker andra cashback- eller jämförelsesidor innan köpet kan provisionen tilldelas någon annan.
 
-Om du upplever problem kan du läsa vår guide om [varför cashback inte registreras hos Refunder](/varfor-registreras-inte-min-cashback-hos-refunder/).
+Om du upplever problem kan du läsa vår guide om [varför cashback inte registreras hos Refunder](/guider/varfor-registreras-inte-min-cashback-hos-refunder).
 
 ## Tips för att öka chansen att få cashback
 
@@ -173,7 +173,7 @@ Nej. Vissa produkter eller kampanjer kan vara undantagna.
 
 Ja, Refunder är en etablerad cashback-tjänst som används av många svenska konsumenter.
 
-Läs även vår guide om [huruvida Refunder är säkert](/ar-refunder-sakert/).
+Läs även vår guide om [huruvida Refunder är säkert](/guider/ar-refunder-sakert).
 
 ## Sammanfattning
 

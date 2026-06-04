@@ -45,7 +45,7 @@ När en affiliate blir godkänd får de tillgång till spårningslänkar och mar
 
 Dessa länkar används för att registrera trafik och försäljning.
 
-Läs mer om [hur affiliate-länkar fungerar](/hur-fungerar-affiliate-lankar/).
+Läs mer om [hur affiliate-länkar fungerar](/guider/hur-fungerar-affiliate-lankar).
 
 ### 4. Försäljning registreras
 
@@ -109,7 +109,7 @@ När köpet registreras går provisionen tillbaka genom samma kedja.
 
 Cashback-sajten delar sedan en del av provisionen med användaren som cashback.
 
-För att förstå helheten rekommenderar vi även vår guide om [vad affiliate-marknadsföring är](/vad-ar-affiliate-marknadsforing/).
+För att förstå helheten rekommenderar vi även vår guide om [vad affiliate-marknadsföring är](/guider/vad-ar-affiliate-marknadsforing).
 
 ## Betalar affiliate-nätverket cashback?
 
@@ -184,4 +184,4 @@ Ett affiliate-nätverk är en plattform som kopplar samman företag och affiliat
 
 För cashback-sidor spelar affiliate-nätverk en viktig roll eftersom de hjälper till att registrera köp och provisioner som senare kan delas med användarna som cashback.
 
-Läs även vår jämförelse mellan [affiliate-marknadsföring och cashback](/affiliate-marknadsforing-vs-cashback/).
+Läs även vår jämförelse mellan [affiliate-marknadsföring och cashback](/guider/affiliate-marknadsforing-vs-cashback).

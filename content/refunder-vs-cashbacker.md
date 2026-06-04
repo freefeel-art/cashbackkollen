@@ -28,7 +28,7 @@ Istället för att behålla hela provisionen delar cashback-sidan en del av int�
 
 Resultatet blir att du får tillbaka pengar på köp som du ändå planerade att genomföra.
 
-Läs även vår guide om [hur cashback fungerar](/hur-fungerar-cashback/).
+Läs även vår guide om [hur cashback fungerar](/guider/hur-fungerar-cashback).
 
 ## Vad är Refunder?
 
@@ -38,7 +38,7 @@ Tjänsten fokuserar på svenska konsumenter och erbjuder cashback inom bland ann
 
 Refunder har under många år etablerat sig som ett av de mest kända varumärkena inom cashback i Sverige.
 
-Du kan läsa mer i vår [Refunder-recension](/refunder-recension/).
+Du kan läsa mer i vår [Refunder-recension](/guider/refunder-recension).
 
 ## Vad är Cashbacker?
 

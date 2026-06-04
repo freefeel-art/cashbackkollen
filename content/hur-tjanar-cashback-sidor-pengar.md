@@ -18,7 +18,7 @@ När en kund genomför ett köp via cashback-sidan betalar butiken en provision.
 
 Cashback-sidan delar sedan en del av denna provision med användaren.
 
-För att förstå grunden bakom modellen kan du läsa vår guide om [vad cashback är](/vad-ar-cashback/).
+För att förstå grunden bakom modellen kan du läsa vår guide om [vad cashback är](/guider/vad-ar-cashback).
 
 ## Ett förenklat exempel
 
@@ -33,7 +33,7 @@ Butiker ser cashback som en marknadsföringskanal där de endast betalar när et
 
 Modellen bygger på affiliate-marknadsföring där företag betalar för faktiska resultat snarare än för visningar eller klick.
 
-Läs mer om [vad affiliate-marknadsföring är](/vad-ar-affiliate-marknadsforing/).
+Läs mer om [vad affiliate-marknadsföring är](/guider/vad-ar-affiliate-marknadsforing).
 
 ## Hur fungerar det i praktiken?
 
@@ -43,7 +43,7 @@ Om användaren sedan genomför ett köp får cashback-sidan provision från buti
 
 En del av provisionen delas tillbaka till kunden som cashback.
 
-Du kan läsa mer om [hur affiliate-länkar fungerar](/hur-fungerar-affiliate-lankar/).
+Du kan läsa mer om [hur affiliate-länkar fungerar](/guider/hur-fungerar-affiliate-lankar).
 
 ## Sammanfattning
 
