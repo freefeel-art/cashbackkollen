@@ -18,7 +18,7 @@ fällan med studentrabatter och visar dig hur du kan "dubbeldippa" för att
 pressa priset på kurslitteraturen till ett absolut minimum.
 
 (Är du helt nybörjare på hur bonusportaler fungerar? Läs gärna våra
-grundläggande guider [vad-ar-cashback] och [hur-fungerar-cashback] innan du
+grundläggande guider [vad är cashback](/guider/vad-ar-cashback) och [hur cashback fungerar](/guider/hur-fungerar-cashback) innan du
 läser vidare).
 
 Så fungerar återbäring när du köper böcker online
@@ -65,7 +65,7 @@ aktörerna:
   - Adlibris: Sveriges största nätbokhandel är en gigant inom cashback. De
     erbjuder ofta en stabil återbäring på hela sortimentet, från skönlitteratur
     till garn och pyssel. (Läs mer om hur du maximerar återbäringen här i vår
-    djupgående guide: [adlibris-cashback]).
+    djupgående guide om [Adlibris cashback](/guider/adlibris-cashback)).
   - Bokus: Den ständiga huvudkonkurrenten till Adlibris. Bokus är extremt starka
     på kurslitteratur och har ofta tillfälliga kampanjer med förhöjd cashback,
     särskilt kring terminsstarterna i augusti och januari.
@@ -139,8 +139,8 @@ digitala cookies och det andra läser av en banktransaktion, krockar de aldrig
 med varandra!
 
 (Vill du lära dig mer om denna taktik? Fördjupa dig i vår guide
-[cashbackkort-vs-cashback-sidor] och upptäck vilka kort som är mest lönsamma i
-vår stora jämförelse av [basta-cashbackkort]).
+[cashbackkort vs cashback-sidor](/guider/cashbackkort-vs-cashback-sidor) och upptäck vilka kort som är mest lönsamma i
+vår stora jämförelse av [bästa cashbackkort](/guider/basta-cashbackkort)).
 
 Tekniska fällor som kan förstöra din återbäring
 

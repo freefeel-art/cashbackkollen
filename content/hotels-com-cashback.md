@@ -15,7 +15,7 @@ lojalitetsprogram (One Key), varför utbetalningarna dröjer längre än vid van
 e-handel, och hur du använder smarta strategier för att maximera din reskassa.
 
 (Tips: Är du helt ny i ämnet? Läs gärna vår övergripande guide om
-[vad-ar-cashback] först).
+[vad är cashback](/guider/vad-ar-cashback) först).
 
 Hur cashback fungerar på Hotels.com
 
@@ -29,7 +29,7 @@ sparas en cookie i din webbläsare. När du sedan genomför din bokning registre
 detta, och Hotels.com betalar en provision till cashback-sidan. Denna plattform
 behåller en liten del och skickar sedan merparten av pengarna vidare till dig.
 
-(Läs mer om den tekniska spårningen i vår artikel: [hur-fungerar-cashback]).
+(Läs mer om den tekniska spårningen i vår artikel: [hur cashback fungerar](/guider/hur-fungerar-cashback)).
 
 Den stora skillnaden: Tidslinjen för utbetalning När du köper en vanlig pryl på
 nätet godkänns din cashback oftast när returperioden gått ut. För
@@ -138,8 +138,8 @@ Resultatet är att du belönas från två olika, helt oberoende system för en o
 samma semester. Du får cashback från portalen OCH bonus från ditt bankkort.
 
 (Fördjupa dig i hur detta fungerar i vår stora guide
-[cashbackkort-vs-cashback-sidor] och hitta marknadens vassaste kort i vår
-topplista över [basta-cashbackkort]).
+[cashbackkort vs cashback-sidor](/guider/cashbackkort-vs-cashback-sidor) och hitta marknadens vassaste kort i vår
+topplista över [bästa cashbackkort](/guider/basta-cashbackkort)).
 
 För- och nackdelar
 

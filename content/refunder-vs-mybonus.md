@@ -44,6 +44,8 @@ MyBonus är en svensk cashback-tjänst som också hjälper användare att få pe
 
 Precis som Refunder samarbetar MyBonus med nätbutiker inom flera kategorier och erbjuder cashback på allt från mode till resor och elektronik.
 
+Läs mer i vår [MyBonus-recension](/guider/mybonus-recension).
+
 ## Den största skillnaden
 
 Den tydligaste skillnaden handlar om storlek och marknadsposition.

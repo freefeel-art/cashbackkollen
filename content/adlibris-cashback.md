@@ -15,7 +15,7 @@ studentrabatter kan ställa till det, och hur du maximerar återbäringen genom
 smarta strategier.
 
 (Tips: Är du nybörjare på ämnet? Läs gärna vår övergripande guide om
-[vad-ar-cashback] först).
+[vad är cashback](/guider/vad-ar-cashback) först).
 
 Hur cashback fungerar på Adlibris
 
@@ -30,7 +30,7 @@ böcker eller ditt pyssel, ser Adlibris system att du kom via just den länken.
 Adlibris betalar då en förmedlingsprovision till cashback-plattformen, som i sin
 tur delar den med dig i form av återbäring till ditt bankkonto.
 
-(Läs mer om den tekniska bakgrunden i vår artikel: [hur-fungerar-cashback]).
+(Läs mer om den tekniska bakgrunden i vår artikel: [hur cashback fungerar](/guider/hur-fungerar-cashback)).
 
 Viktigt att veta om moms på böcker och cashback En unik detalj när du handlar på
 just Adlibris är momssatsen. Cashback beräknas nästan alltid på ordervärdet
@@ -139,8 +139,8 @@ webbspårning, konkurrerar de inte med varandra. Du får alltså pengar tillbaka
 från två olika håll på en och samma beställning!
 
 (Läs mer om vilka kort som är mest fördelaktiga i vår topplista över
-[basta-cashbackkort] samt en djupare genomgång i
-[cashbackkort-vs-cashback-sidor]).
+[bästa cashbackkort](/guider/basta-cashbackkort) samt en djupare genomgång i
+[cashbackkort vs cashback-sidor](/guider/cashbackkort-vs-cashback-sidor)).
 
 För- och nackdelar
 

@@ -18,7 +18,7 @@ fällan med influencerkoder och visar dig hur du "dubbeldippar" för att maximer
 din bonus.
 
 (Är du helt ny i ämnet? Börja gärna med att läsa våra grundguider om
-[vad-ar-cashback] och [hur-fungerar-cashback] innan du dyker in i modespecifika
+[vad är cashback](/guider/vad-ar-cashback) och [hur cashback fungerar](/guider/hur-fungerar-cashback) innan du dyker in i modespecifika
 strategier).
 
 Så fungerar återbäring när du shoppar kläder online
@@ -83,11 +83,11 @@ Några av de mest populära aktörerna där du nästan alltid kan få pengar til
 Ersättningsnivåerna hos dessa butiker varierar ofta mellan 2 % upp till hela 10
 % beroende på om de kör tillfälliga kampanjer eller inte. Vill du lära dig hur
 du maximerar din återbäring hos specifika aktörer rekommenderar vi att du läser
-våra djupgående guider, exempelvis vår guide till [zalando-cashback] eller vår
-analys av [ellos-cashback].
+våra djupgående guider, exempelvis vår guide till [Zalando cashback](/guider/zalando-cashback) eller vår
+analys av [Ellos cashback](/guider/ellos-cashback).
 
 (Shoppar du även skönhet och parfym i samband med dina modeinköp? Då gäller
-exakt samma principer – läs gärna vår stora guide till [lyko-cashback] för att
+exakt samma principer – läs gärna vår stora guide till [Lyko cashback](/guider/lyko-cashback) för att
 få koll på skönhetssegmentet).
 
 Hur gör man med butiker som H&M och Zara? En viktig detalj att känna till är att
@@ -153,8 +153,8 @@ betalar med ditt cashbackkort – då får du kortets procentuella bonus oavsett
 vilken butik du handlar i.
 
 (Vill du fördjupa dig i strategin? Läs vår detaljerade jämförelse
-[cashbackkort-vs-cashback-sidor] och hitta marknadens vassaste kort i vår
-topplista över [basta-cashbackkort]).
+[cashbackkort vs cashback-sidor](/guider/cashbackkort-vs-cashback-sidor) och hitta marknadens vassaste kort i vår
+topplista över [bästa cashbackkort](/guider/basta-cashbackkort)).
 
 Shoppa smart under reor (Black Week & Mellandagsrean)
 

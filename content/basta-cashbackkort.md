@@ -46,8 +46,9 @@ Till skillnad från cashback-sidor krävs normalt ingen extra registrering infö
 
 Exempel på kort som ofta nämns i diskussioner om cashback:
 
-- Bank Norwegian
-- re:member
+- [Bank Norwegian Kreditkort](/guider/bank-norwegian-kreditkort)
+- [re:member flex](/guider/remember-flex-kreditkort)
+- [Coop Mastercard Mer](/guider/coop-mastercard-mer)
 - Rocker
 - Kort med bonusprogram
 
@@ -103,3 +104,6 @@ Ja. Många användare kombinerar båda för att maximera återbäringen.
 - [Hur fungerar cashback?](/guider/hur-fungerar-cashback)
 - [Bästa cashback-sidor i Sverige](/guider/basta-cashback-sidor-i-sverige)
 - [Refunder vs Cashbackkort](/guider/refunder-vs-cashbackkort)
+- [Bank Norwegian vs re:member flex](/guider/bank-norwegian-vs-remember-flex)
+- [Bästa cashbackkort för resor](/guider/basta-cashbackkort-for-resor)
+- [Cashbackkort utan årsavgift](/guider/cashbackkort-utan-arsavgift)

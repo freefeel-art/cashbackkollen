@@ -47,3 +47,7 @@ Därför är det viktigt att använda etablerade cashback-tjänster.
 För de flesta användare är cashback säkert så länge man använder seriösa cashback-sidor och följer deras villkor.
 
 Om du vill förstå grunderna rekommenderar vi även artikeln om [vad cashback är](/guider/vad-ar-cashback).
+
+Undrar du om cashback är skattepliktigt? Se vår guide om [cashback och skatt i Sverige](/guider/cashback-och-skatt-i-sverige).
+
+Läs även vår guide om [rabattkod och cashback samtidigt](/guider/kan-man-anvanda-rabattkod-och-cashback).

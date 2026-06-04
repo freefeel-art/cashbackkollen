@@ -14,7 +14,7 @@ vanligaste fallgroparna – som varför influencerkoder kan förstöra din åter
 – och hur du strategiskt maximerar dina besparingar.
 
 (Tips: Är du helt ny i ämnet? Läs gärna vår grundläggande guide om
-[vad-ar-cashback] först).
+[vad är cashback](/guider/vad-ar-cashback) först).
 
 Hur cashback fungerar på Lyko
 
@@ -30,7 +30,7 @@ När du sedan köper ett schampo, en locktång eller en ansiktskräm betalar Lyk
 provision till cashback-aktören. Aktören behåller en liten del själva, och ger
 resten till dig i form av återbäring.
 
-(Läs mer om den tekniska bakgrunden i vår artikel: [hur-fungerar-cashback]).
+(Läs mer om den tekniska bakgrunden i vår artikel: [hur cashback fungerar](/guider/hur-fungerar-cashback)).
 
 Fördröjning och returrätt När du köper skönhetsprodukter på nätet har du alltid
 lagstadgad ångerrätt, förutsatt att plomberingen på produkterna inte är bruten.
@@ -141,8 +141,8 @@ insatt på det kontot. Därefter får du ditt betalkorts vanliga bonus på
 transaktionen. Eftersom det ena systemet bygger på digitala länkar och det andra
 på en banktransaktion, krockar de aldrig med varandra.
 
-(Läs mer om hur du väljer rätt kort i vår lista över [basta-cashbackkort] och
-fördjupa dig i strategin i guiden [cashbackkort-vs-cashback-sidor]).
+(Läs mer om hur du väljer rätt kort i vår lista över [bästa cashbackkort](/guider/basta-cashbackkort) och
+fördjupa dig i strategin i guiden [cashbackkort vs cashback-sidor](/guider/cashbackkort-vs-cashback-sidor)).
 
 För- och nackdelar
 

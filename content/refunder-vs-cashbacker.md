@@ -48,6 +48,8 @@ Målet är att hjälpa användare att spara pengar genom cashback på onlineköp
 
 Även om Cashbacker inte har samma storlek som Refunder erbjuder tjänsten cashback hos många välkända nätbutiker.
 
+Läs mer i vår [Cashbacker-recension](/guider/cashbacker-recension).
+
 ## Den största skillnaden
 
 Den tydligaste skillnaden mellan tjänsterna handlar om storlek.

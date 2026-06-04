@@ -16,7 +16,7 @@ undantag kring receptbelagda läkemedel, hur det fungerar ihop med Klubb Hjärta
 och hur du strategiskt maximerar dina besparingar.
 
 (Tips: Är du helt ny i ämnet? Läs gärna vår grundläggande guide om
-[vad-ar-cashback] först).
+[vad är cashback](/guider/vad-ar-cashback) först).
 
 Hur cashback fungerar på Apotek Hjärtat
 
@@ -32,7 +32,7 @@ genomför köpet, ser Apotek Hjärtats system vem som förmedlade kunden. De bet
 då en provision till cashback-sidan, som i sin tur ger större delen av denna
 summa vidare till dig som återbäring.
 
-(Läs mer om den tekniska bakgrunden i vår artikel: [hur-fungerar-cashback]).
+(Läs mer om den tekniska bakgrunden i vår artikel: [hur cashback fungerar](/guider/hur-fungerar-cashback)).
 
 Viktigt lagkrav: Inga rabatter på receptbelagt När du handlar på ett apotek i
 Sverige finns det en mycket viktig lagstiftning att känna till. Enligt svensk
@@ -149,8 +149,8 @@ portalens återbäring bygger på en digital länk, konkurrerar de inte. Du bel�
 helt enkelt av två olika system för ett och samma apoteksbesök!
 
 (Fördjupa dig i hur denna strategi fungerar i vår guide
-[cashbackkort-vs-cashback-sidor] och hitta rätt plastkort för dig i vår
-genomgång av [basta-cashbackkort]).
+[cashbackkort vs cashback-sidor](/guider/cashbackkort-vs-cashback-sidor) och hitta rätt plastkort för dig i vår
+genomgång av [bästa cashbackkort](/guider/basta-cashbackkort)).
 
 För- och nackdelar
 
