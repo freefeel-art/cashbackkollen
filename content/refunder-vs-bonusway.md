@@ -51,6 +51,8 @@ Precis som Refunder bygger Bonusway på affiliate-marknadsföring där användar
 
 Bonusway samarbetar med många välkända nätbutiker och erbjuder regelbundet kampanjer med förhöjd cashback.
 
+Läs mer i vår [Bonusway-recension](/guider/bonusway-recension).
+
 ## Antal butiker
 
 Ett stort butiksutbud ger fler möjligheter att tjäna cashback.

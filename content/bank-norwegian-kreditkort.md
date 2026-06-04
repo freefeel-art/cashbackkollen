@@ -43,3 +43,4 @@ Bank Norwegian är ett av de mest etablerade alternativen för personer som vill
 
 - [Hur fungerar cashbackkort?](/guider/hur-fungerar-cashbackkort)
 - [Bästa cashbackkort i Sverige](/guider/basta-cashbackkort)
+- [Bank Norwegian vs re:member flex](/guider/bank-norwegian-vs-remember-flex)

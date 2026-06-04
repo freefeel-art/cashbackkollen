@@ -20,7 +20,7 @@ skillnaden mellan receptbelagt och receptfritt, varnar för vanliga tekniska
 fällor och lär dig hur du maximerar återbäringen genom att "dubbeldippa".
 
 (Är du helt nybörjare på hur systemet fungerar? Läs gärna våra grundläggande
-artiklar [vad-ar-cashback] och [hur-fungerar-cashback] innan du läser vidare).
+artiklar [vad är cashback](/guider/vad-ar-cashback) och [hur cashback fungerar](/guider/hur-fungerar-cashback) innan du läser vidare).
 
 Så fungerar återbäring hos nätapoteken
 
@@ -80,7 +80,7 @@ Cashbackkollen.se är oberoende utser vi ingen till den "bästa", men här är e
     online. De erbjuder ofta en stabil cashback och har ett enormt sortiment av
     premiumhudvård. Det gäller dock att hålla tungan rätt i mun om du kombinerar
     det med deras kundklubb. (Läs mer i vår djupgående guide:
-    [apotek-hjartat-cashback]).
+    [Apotek Hjärtat cashback](/guider/apotek-hjartat-cashback)).
   - Apotea: Sveriges största renodlade nätapotek. Eftersom Apotea redan pressar
     sina priser maximalt, erbjuder de ibland en något lägre cashback-procent än
     sina konkurrenter, eller så finns de endast tillgängliga i perioder.
@@ -172,8 +172,8 @@ Eftersom det ena systemet bygger på digital webbspårning, och det andra på en
 banktransaktion, krockar de aldrig med varandra!
 
 (Vill du fördjupa dig i hur denna strategi fungerar rent tekniskt? Läs vår guide
-[cashbackkort-vs-cashback-sidor] och upptäck vilka bankkort som ger dig bäst
-förutsättningar i vår uppdaterade lista över [basta-cashbackkort]).
+[cashbackkort vs cashback-sidor](/guider/cashbackkort-vs-cashback-sidor) och upptäck vilka bankkort som ger dig bäst
+förutsättningar i vår uppdaterade lista över [bästa cashbackkort](/guider/basta-cashbackkort)).
 
 Vanliga fällor som förstör din apoteks-cashback
 

@@ -16,7 +16,7 @@ pengar, och avslöjar hur du bäst kombinerar bonusportaler med flygpoäng för 
 maximera din totala utdelning.
 
 (Är du helt ny i cashback-världen? Vi rekommenderar att du först läser våra
-grundläggande guider: [vad-ar-cashback] och [hur-fungerar-cashback]).
+grundläggande guider: [vad är cashback](/guider/vad-ar-cashback) och [hur cashback fungerar](/guider/hur-fungerar-cashback)).
 
 Så fungerar cashback när du bokar resor online
 
@@ -88,8 +88,8 @@ Marginalerna för aktörer som Hotels.com, Booking.com och Agoda är mycket hög
 (de tar ofta 15–25 % av hotellets intäkt). Därför kan de också erbjuda generösa
 cashback-nivåer. Det är inte ovanligt att se återbäring på mellan 4 % och 10 %
 på rena hotellbokningar. (Tips: Ska du specifikt boka hotell? Missa inte vår
-detaljerade guide om [hotels-com-cashback] för att lära dig maximera utdelningen
-där).
+detaljerade guide om [Hotels.com cashback](/guider/hotels-com-cashback) för att lära dig maximera utdelningen
+där, eller vår guide om [Booking cashback](/guider/booking-cashback)).
 
 Paketresor och charter (Hög total utdelning)
 
@@ -165,8 +165,8 @@ ger dig poäng eller kontant cashback för själva banktransaktionen. De krockar
 aldrig, och du maximerar din återbäring.
 
 (Vill du veta exakt hur detta fungerar? Läs vår djupdykning
-[cashbackkort-vs-cashback-sidor] och hitta det perfekta kortet för resan i vår
-guide [basta-cashbackkort]).
+[cashbackkort vs cashback-sidor](/guider/cashbackkort-vs-cashback-sidor) och hitta det perfekta kortet för resan i vår
+guide [bästa cashbackkort för resor](/guider/basta-cashbackkort-for-resor)).
 
 Fällor att undvika när du bokar resan
 

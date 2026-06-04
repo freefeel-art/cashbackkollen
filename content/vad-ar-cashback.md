@@ -48,3 +48,5 @@ Det innebär att cashback inte är en gåva eller ett bonusprogram finansierat a
 För den som vill jämföra olika alternativ finns vår översikt över [bästa cashback-sidor i Sverige](/guider/basta-cashback-sidor-i-sverige).
 
 Du kan även läsa om skillnaderna mellan [cashbackkort och cashback-sidor](/guider/cashbackkort-vs-cashback-sidor).
+
+Undrar du om cashback är skattepliktigt? Läs vår guide om [cashback och skatt i Sverige](/guider/cashback-och-skatt-i-sverige).

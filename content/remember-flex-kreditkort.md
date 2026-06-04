@@ -49,3 +49,4 @@ re:member flex är ett av de mest relevanta korten att känna till för personer
 - [Hur fungerar cashbackkort?](/guider/hur-fungerar-cashbackkort)
 - [Cashbackkort vs cashback-sidor](/guider/cashbackkort-vs-cashback-sidor)
 - [Bästa cashbackkort i Sverige](/guider/basta-cashbackkort)
+- [Bank Norwegian vs re:member flex](/guider/bank-norwegian-vs-remember-flex)

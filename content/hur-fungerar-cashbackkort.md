@@ -112,4 +112,7 @@ Läs mer om några av Sveriges mest kända alternativ:
 
 - [Bank Norwegian Kreditkort](/guider/bank-norwegian-kreditkort)
 - [re:member flex](/guider/remember-flex-kreditkort)
+- [Coop Mastercard Mer](/guider/coop-mastercard-mer)
+- [Cashbackkort utan årsavgift](/guider/cashbackkort-utan-arsavgift)
+- [Bästa cashbackkort för resor](/guider/basta-cashbackkort-for-resor)
 - [Bästa cashbackkort i Sverige](/guider/basta-cashbackkort)

@@ -61,7 +61,7 @@ Vissa kort ger extra bonus på livsmedel och dagligvaror.
 
 Exempel:
 
-- Coop Mastercard Mer
+- [Coop Mastercard Mer](/guider/coop-mastercard-mer)
 
 ### Bensinkort
 
@@ -119,3 +119,5 @@ Cashbackkort utan årsavgift är ett populärt alternativ för den som vill få 
 På den svenska marknaden finns både allroundkort, matkort och bensinkort som erbjuder någon form av cashback eller bonus. Vilket alternativ som passar bäst beror på hur du handlar och vilka förmåner du värdesätter mest.
 
 För fler alternativ och jämförelser, se vår guide till [bästa cashbackkort](/guider/basta-cashbackkort).
+
+Vill du jämföra kort med och utan årsavgift? Läs vår guide om [cashbackkort utan årsavgift vs kort med årsavgift](/guider/cashbackkort-utan-arsavgift-vs-kort-med-arsavgift).

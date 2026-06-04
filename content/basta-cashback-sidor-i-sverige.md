@@ -161,6 +161,9 @@ Läs våra guider:
 
 - [Zalando cashback](/guider/zalando-cashback)
 - [Booking cashback](/guider/booking-cashback)
+- [Hotels.com cashback](/guider/hotels-com-cashback)
 - [CDON cashback](/guider/cdon-cashback)
 - [Apotea cashback](/guider/apotea-cashback)
+- [Apotek Hjärtat cashback](/guider/apotek-hjartat-cashback)
+- [Adlibris cashback](/guider/adlibris-cashback)
 - [Amazon cashback](/guider/amazon-cashback)
